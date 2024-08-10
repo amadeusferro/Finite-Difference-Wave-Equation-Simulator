@@ -1,4 +1,4 @@
-# 🌊 Wave Simulator in Python
+# 🌐📡 Wave Simulator in Python
 
 Welcome to the **Wave Simulator in Python** repository! This project uses the Finite Difference Method to model wave propagation in various media.
 
@@ -35,6 +35,7 @@ Feel free to contribute to this project! If you have suggestions, improvements, 
 ## 🙏 Acknowledgments
 
 Special thanks to Dr. Philip Mocz, Computational Physicist at Lawrence Livermore National Laboratory, for the article detailing the method used in this project.
+
 Article: [Create Your Own Finite Difference Wave Equation Simulation (With Python)](https://levelup.gitconnected.com/create-your-own-finite-difference-wave-equation-simulation-with-python-3971617f825e)
 
 ## 📜 License
